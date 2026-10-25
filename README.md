@@ -1,2 +1,2 @@
 # epg-schedule-refresh
-Contains EPG Schedule for IPTV Streams
+Stores EPG XML files for IPTV Streams.
