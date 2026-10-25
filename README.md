@@ -4,7 +4,7 @@ Stores EPG XML files for IPTV Streams.
 
 ## IPTV XML Schedules
 
-This project stores and manages EPG XML files for IPTV streams, allowing you to keep your channel schedules up-to-date. The repo refreshes the XML twice a day to ensure the schedules are current.
+This project stores EPG XML files for IPTV streams. Automatic schedule refresh is not yet implemented.
 
 ### Supported Streams
 
